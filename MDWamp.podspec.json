@@ -24,10 +24,10 @@
         "osx": "10.8",
         "ios": "7.1"
     },
-    "version": "2.2.4",
+    "version": "2.2.5",
     "source": {
-        "git": "https://github.com/mogui/MDWamp.git",
-        "tag": "2.2.4"
+        "git": "https://github.com/agumbe/MDWamp.git",
+        "tag": "2.2.5"
     },
     "dependencies": {
         "CocoaAsyncSocket": [],

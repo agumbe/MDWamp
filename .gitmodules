@@ -1,6 +1,6 @@
 [submodule "Carthage/Checkouts/GHODictionary"]
 	path = Carthage/Checkouts/GHODictionary
-	url = https://github.com/mogui/GHODictionary.git
+	url = https://github.com/gabriel/GHODictionary.git
 [submodule "Carthage/Checkouts/MPMessagePack"]
 	path = Carthage/Checkouts/MPMessagePack
 	url = https://github.com/mogui/MPMessagePack.git
